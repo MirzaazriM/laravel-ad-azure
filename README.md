@@ -1,4 +1,4 @@
-# Laravel Socialite Azure Active Directory Plugin - Copy
+# Laravel Socialite Azure Active Directory Plugin - Copy of metrogistics/laravel-azure-ad-oauth library
 
 ## Installation
 

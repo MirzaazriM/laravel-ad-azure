@@ -1,5 +1,5 @@
 {
-    "name": "metrogistics/laravel-azure-ad-oauth",
+    "name": "mirzaazrim/laravel-ad-azure",
     "description": "Provides single-sign-on ability to Microsoft Azure Active Directory enabled apps.",
     "require": {
         "laravel/framework": ">5.4",
@@ -8,8 +8,8 @@
     },
     "authors": [
         {
-            "name": "Patrick Stephan",
-            "email": "patrick.stephan@metrogistics.com"
+            "name": "Mirza",
+            "email": ""
         }
     ],
     "autoload": {
