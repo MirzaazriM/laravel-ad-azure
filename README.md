@@ -1,4 +1,4 @@
-# Laravel Socialite Azure Active Directory Plugin - COPY
+# Laravel Socialite Azure Active Directory Plugin - Copy
 
 ## Installation
 
